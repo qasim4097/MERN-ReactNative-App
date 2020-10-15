@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871714431920",
+    "firebase_url": "https://avendor-ea8cc.firebaseio.com",
+    "project_id": "avendor-ea8cc",
+    "storage_bucket": "avendor-ea8cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871714431920:android:36ee7a5f8f85ef3fda6c75",
+        "android_client_info": {
+          "package_name": "com.avendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871714431920-q51vnuhbknepfq6djjpmnr7uu1le9l26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zU8O5AoZTfhGbD5NcakZ1lq7dXjgbiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871714431920-q51vnuhbknepfq6djjpmnr7uu1le9l26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
